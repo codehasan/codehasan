@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi I'm Ratul 👋
 
-<!--
-**codehasan/codehasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building decentralized applications, Blockchain and DeFi.
 
-Here are some ideas to get you started:
+I maintain the following projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [dex2c] - Translate dalvik bytecode into cpp to apply native layer protection for apps
+- [Current-Activity] - Monitor the current running app activity and emit the info in a floating window
+
+If you're looking to get in contact with me:
+
+- Find me on [Twitter]
+- Find me on [Linkedln]
+- Find me on [Telegram]
+- Send an email to my GitHub email account
+
+[dex2c]: https://github.com/codehasan/dex2c
+[Current-Activity]: https://github.com/codehasan/Current-Activity
+[Twitter]: https://x.com/code_hasan
+[Linkedln]: https://www.linkedin.com/in/codehasan
+[Telegram]: https://telegram.me/codehasan
